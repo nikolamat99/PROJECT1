@@ -1,2 +1,2 @@
 PROJECT PREVIEW: 
-https://nikolamat99.github.io/PROJEKT1/
+https://nikolamat99.github.io/PROJECT1/
